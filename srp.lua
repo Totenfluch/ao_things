@@ -49,7 +49,5 @@ Handlers.add(
         OwnerMove = ""
         PrevPlayer = Player
         Player = ""
-
-        table.insert(Members, msg.From)
     end
 )
